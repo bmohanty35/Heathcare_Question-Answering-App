@@ -1,1 +1,1 @@
-# Heathcare_Question-Answering-App
+# Heathcare_Question-Answering-GenAI App
